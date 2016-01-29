@@ -6,8 +6,15 @@
   "scripts": {
     "test": "node test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SimonSchick/flist-api.git"
+  },
   "author": "Simon Schick <demwizzy@gmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SimonSchick/flist-api/issues"
+  },
   "dependencies": {
     "bluebird": "^3.1.5",
     "request": "^2.69.0"
