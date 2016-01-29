@@ -1,7 +1,7 @@
 {
   "name": "flist-api",
   "version": "0.0.0",
-  "description": "Datamining furries",
+  "description": "Simple wrapper for the F-List API",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
